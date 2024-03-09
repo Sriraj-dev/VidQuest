@@ -1,0 +1,483 @@
+over the last 4 years I've used more
+than 200 no code tools to build my own
+business and I've trained more than 500
+entrepreneurs to launch theirs and raise
+millions of dollars so in this video I'm
+going to save you a bunch of time and
+money by giving you the best ones to
+launch your next startup idea and you
+might want to stick around till the end
+cuz I have some hidden gems that allow
+you to launch 10 times quicker now the
+first tool is also known as the
+Photoshop of website building build by
+designers for designers providing you
+with an incredible flexibility to build
+Pixel Perfect websites we have web flow
+so as you see here when we jump in you
+can build really beautifully animated
+websites but the main thing about
+webflow is that they give you lots of
+flexibility in terms of design animation
+and that's often times what designers
+are really looking for so this is kind
+of the Builder to build $10,000 websites
+for example and you can do all that
+without writing any code so just
+dragging and dropping but the cool thing
+is you also get access to the code
+itself and for a lot of people they love
+that now web flow is definitely now
+focused on building out deeper logic so
+that people can build more complex web
+apps with this product so we actually
+use webflow to build out our website as
+you can see this is the editor so it
+pretty much looks like Photoshop uh it's
+a little bit more complex than you might
+want if you're looking for something
+simpler but we'll get into that in just
+a second you can also use it to build
+super complex websites so for example my
+buddy Saro cloned the interface of the
+PlayStation which you can see right here
+it is a little bit more on the complex
+side and that just means that it takes
+about 3 to 6 months to learn so just
+keep that in mind if you're choosing web
+flow as the main tool brings me to the
+next tool called card with two RS and it
+is a simple website and landing page
+builder and before you say you can't
+really build interesting things with
+this well Justin Welsh built a $1.8
+million business and the backbone of his
+build is card so even though it has zero
+learning curve pretty much it is a very
+powerful tool as well so here you can
+choose a bunch of different templates
+that they have available you can start
+from a template or you can start from
+scratch as you can see from this
+interface it's really really simple to
+understand so here for example I can
+just start with a template drag and drop
+you can add elements very simply it's
+just so intuitive you don't really have
+to think too too much it also has
+animations you'll also get good
+responsive design which means that it'll
+look good on a mobile phone as well as a
+desktop and so for complete beginners
+this is a really good option for you
+because you can literally jump into it
+and build something within just 30
+minutes with like now the downside of
+this platform is that it's really only
+made for simple websites and landing
+pages and it obviously has limitations
+when it comes to the design capabilities
+but overall a really solid option now if
+you're looking for something for a
+little bit more functionality and design
+flexibility than card but a little bit
+less of a learning curve than web flow
+then this next tool might be exactly
+what you're looking for it's a platform
+that over the past couple of years has
+really made a name for itself especially
+when they launched one of the first AI
+Builders if you didn't guess it already
+it's called framer and they were one of
+the first to build this prompt-based AI
+generated website builder the interface
+is that perfect balance between having a
+little bit more functionalities uh not
+being as simple it probably takes about
+a month or a couple of weeks to learn
+framer so that's really one of the
+positive things that I like about it
+another AI feature I really like is that
+they have this plugin that allows you to
+do HTML paste so you can go to your
+website you can grab the HTML and you
+could just plug it right into framer so
+if you wanted to migrate your website to
+framer you could do that a good example
+of a website built with framer is L
+files as you can see really nice
+animations here and that's why I really
+like framer I think it's that great in
+between now the uh Pros is that it is
+easier to learn than web flow but
+because you probably love the magic of
+AI let's go ahead and test out that
+Builder framer build a website for my
+business called we are no code we teach
+entrepreneurs how to launch their
+startups with no code tools boom and as
+you can see here it's pumped out a first
+version of this website it's written
+copy it's created different sections and
+then this is pretty much your starting
+point you can continue to build on top
+of this so that's why this platform is
+incredibly powerful and we recommend it
+and because some of you may be trying to
+build something that's more complex than
+a website we're going to be talking
+about the next section which is web apps
+first one on this list is probably the
+most powerful no code Builder out in the
+market today it's called bubble.io so
+bubble is an all-in-one Builder meaning
+that you have access to the front end
+which is the design the middleware which
+are more like the workflows and the back
+end which are sort of the servers or the
+database all in one inside bubble you
+also have a bunch of different plugin so
+you can choose from more than a thousand
+different plugins to give access to
+deeper functionalities so you can bring
+in realtime geolocation you could tap
+into stock market information and create
+a trading app you can also create
+complex workflows and that's the reason
+why so many Founders have been able to
+build quite scalable businesses David
+the founder of teal for example raised
+$1 million from investors with a
+platform built with bubble and you can
+even build AI platforms Albert for
+example even built an AI startup called
+synth flow that he recently raised $1.8
+million again completely built with
+bubble so the pros of building with
+bubble is that it's a very powerful
+platform you have lots of flexibility in
+what you build but unfortunately the
+cons are that it comes with a deep
+learning curve meaning that it takes
+about 3 to 6 months to become very
+proficient in bubble which has its
+benefits but also its drawbacks but if
+you're not trying to become a web
+developer then this next platform might
+be perfect for you to be able to build
+your web app without writing a single
+line of code it is way way more
+intuitive and easier to learn and it's
+often compared to the Lego of the no
+code building that's right we're talking
+about a platform called software you can
+use this platform to build things like
+portals sales crms uh employee
+directories now the software editor is
+so simple to use as you can see here you
+can simply add blocks the adaptation of
+those blocks can be super easy and this
+is one of those tools where you really
+get a great return on investment meaning
+that you invest a couple hours and you
+can already build a first first web app
+and this project in fact that I'm
+showing you is a full directory of all
+the no code tools that you can actually
+check out in the description below that
+we built fully in software so here you
+can search for the tool you're looking
+for for your next project there are
+different categories so if we want to
+use a an automation tool it's going to
+categorize by automation tools but one
+of the most exciting things that it's
+just released is actually their AI
+generator that's right you can build
+full web apps leveraging AI so there's a
+lot that you can do in sofware and for
+beginners it is such a delight to work
+with a tool that gives you such a high
+return on investment now up until now
+you'll notice that we've mainly been
+talking about building on the web so the
+next section is going to be targeting
+mobile app Builders and the first one up
+is called a dollo it's a platform that
+allows you to create from already
+created components an app from scratch
+so this is what the editor actually
+looks like inside of a doo as you can
+see there are pre-created components
+that you can choose from and you can
+just pretty much add them onto these
+these different screens and create these
+different pages and every time that you
+create a new screen for example you can
+just add elements to that screen so it's
+really drag and drop point click you can
+add some logic behind it you can also
+preview your app of course so as you're
+actually building this allows you to
+save a lot of time so all in all quite
+intuitive of a platform as you can see
+and yeah you can publish these apps
+inside the app store or Android store as
+well which is what a lot of people are
+looking for now let me show some
+examples of of both apps Joy Blossom is
+a meditation app built in ad dollo so
+this is a good example of what you can
+build leveraging this tool smart dish is
+an app also built with adalo so this is
+really to order food now the second
+mobile app builder on this list is
+called Glide and it's quite similar to
+adalo it has an even more intuitive
+interface to build with so glide's
+interface is also super nice as you can
+see here uh if you jump in you have the
+navigation so these are pretty much the
+different screens that you can can see
+you can see the layout of that so as you
+can see all this data is now represented
+here if we click through this we're
+going to be able to go to the page that
+gives us the details from the design
+perspective as you can see here there's
+some nice styling that you could use so
+if you wanted to make it more of a grid
+form all this data you could just click
+on that and again so this it's really
+easy for you to navigate this platform
+and to understand the additional options
+that you have as well you can actually
+build pretty awesome things leveraging
+this platform it has a learning curve
+that's quite similar to that of a dollar
+so like 1 month pretty much now the one
+thing I'd mention about Glide is that
+they don't support publishing in the IOS
+and Android store anymore they used to
+but they now took that functionality
+away and very similarly to adalo because
+they're quite easy to learn and quick to
+build they also come with the fact that
+hey you can't build as deep of
+functionality as you might want and
+people often ask me should I use a dollo
+or should I use Glide there's only a
+couple of subtle differences and frankly
+both are great platforms so if you're
+trying to make a decision between both
+of those why don't you just spend about
+20 minutes in each editor now there's
+another platform that's had a meteoric
+rise to Fame in the no code space
+specifically for mobile app Builders and
+it's called flutter flow this is
+probably the most powerful no code
+mobile app builder in the Market at the
+moment so this is the interface in
+flutter flow as you can see it's a
+little bit more complex as you might
+imagine the upside of building inside
+flutter flows you have way more
+functionality so you can build complex
+API called
+uh the downside is that it probably
+takes about 3 months to learn to become
+very good at flutter flow they also have
+this cool feature here which allows you
+to build a full page with AI so you only
+just have to prompt it and it's being
+used by Enterprises by entrepreneurs
+small medium businesses alike and as you
+can imagine it's a platform with deep
+logic and a little bit more of a
+learning curve but also has some very
+exciting AI features that are being
+built right inside of it meaning that
+you can customize everything and
+anything and yes yes I'm about to unveil
+the tools that allow you to build 10
+times quicker but before that I want to
+talk about some tools in the category of
+automation the First Tool in this
+category is largely known as the leader
+in this space it's called zapier and
+they Market themselves as the glue of
+the internet essentially connecting
+information from one app to another
+integrating apps with each other and
+allowing them to communicate back and
+forth just like you would do with an API
+call it can be used for things like
+marketing automation sales automation uh
+for business owners you know it
+departments in general and it is very
+simple to use that's why it's gained a
+lot of popularity another thousands of
+use cases but let's explore a couple
+that they're showing here on the website
+now as you can see the first thing that
+it's showing me is the AI Builder so
+basically I could just prompt it if this
+happens then do that uh so I'm going to
+jump in here and grab a trigger so
+basically when this specific trigger
+event happens it's going to create an
+action on the other hand just remember
+that okay so one of the examples that I
+want to use here is the way that we
+onboard people when they join our
+program so we have a slack Community
+where we provide one-on-one support via
+video and so here we have a trigger that
+when someone is added to slack and they
+join as a new user it's going to create
+a private channel for them then it's
+going to send them a message from one of
+us welcoming them and and outlining the
+setup steps that we want them to take
+once they're inside the channel now what
+I love about zapier is that it's simple
+to use it's easy to understand and it
+really helps you go through it as well
+as the AI that they just released now
+zapier is incredibly easy to use but I'd
+say if there's one drawback is that it's
+a little bit expensive and this next
+tool might actually be a better option
+for you it's called make which is also
+called integromat is also an incredible
+platform to be able to create
+automations it requires a little bit
+more learning than zapier but is a lot
+cheaper allows you to use pre-existing
+templates as you can see here we're
+creating a workflow and the example that
+you can see is that if someone fills out
+a specific form it's going to do a
+number of things it's going to notify
+the team in parallel it's going to
+create a record in your database it's a
+lot cheaper as a product and that's why
+I really like it when you jump in you
+can choose to start from a template or
+you can build a scenario from scratch so
+let's go ahead and start one let's add a
+trigger event now the trigger event
+could basically be with all of these
+different Integrations right so these
+are all different apps that you could
+connect to so make is basically quite
+similar to zapier it's a bit cheaper
+there are slightly fewer Integrations
+but frankly I really like it so if
+you're a total beginner zaper might make
+sense if you have a little bit more
+confidence and are willing to test
+something different then I would go for
+make now for those of you who are
+totally new to automation it pretty much
+works like this if something happens
+then I want something else to happen and
+that's exactly the name of this next
+platform if this then that iftt this is
+another option for you if you're trying
+to create automations it's also quite
+simple it has fewer Integrations than
+you might see on zappier it's also a
+little bit cheaper and ultimately these
+three platforms work in a very similar
+way but trust me when you start setting
+up automations it's going to make your
+life so much easier and now we finally
+reached the bonus tools these four gems
+that are going to allow you to save a
+lot of time when you're building first
+up is reloom reloom is really cool it's
+basically a library of different
+elements you have uh basically
+structural elements for things like web
+flow you have an AI site Builder that
+you can then export to web flow
+extensions figma kits everything so I
+really love this tool if you click into
+the AI builder for example let's go to
+that one the first thing it does is that
+it's going to create a full site map
+then it's going to suggest an about
+section it's going to suggest courses
+page now the second thing it'll do is
+that it can generate a wireframe based
+on that so as you can see here the first
+page it basically built out the entire
+structure of the website ower your
+startup Journey with no code pretty
+similar to what our website actually
+says so it's really really well thought
+out and all of this with just one prompt
+so super powerful website I would
+definitely recommend for you guys to
+come and check it out and next up is a
+similar product built for bubble and
+it's called Atomic Fusion it's a
+collection of different templates of
+different components so you can jump in
+here and we can go ahead and explore
+some of the different things they have
+for bubble there's a marketplace where
+you can actually buy and sell things but
+there's so many free elements here that
+can be super valuable if you're at the
+beginning of your uh building and
+they're organized nicely like block
+components for example if you're just
+looking for a specific uh component also
+full Pages there are UI kits there are
+elements that you can use if you're
+building in bubble why waste your time
+start from complete scratch and we know
+that the designing inside a bubble can
+sometimes be a little frustrating so
+speeding up the process and using other
+people's work can be super valuable now
+another platform I want to introduce you
+to save time is flow base they have
+templates and components not only for
+web flow but also for framer and for
+figma this can speed things up
+dramatically for you so definitely check
+out flow base you could check out their
+components they have different
+wireframes as well illustrations
+boosters and yeah building has become
+such a treat now because you can
+basically just use other people's
+beautiful work for free and uh build
+beautiful websites web apps and this is
+a great resource for those three tools
+check out as many of these as you can
+and it's going to speed up your process
+10-fold now knowing all of these tools
+I've just presented is amazing and of
+itself but even more amazing is getting
+the help and support that you need as
+you're going along your building process
+so that you can make money and optimize
+your systems with these no code tools
+and that's exactly why we created a free
+course that you'll find below called how
+to launch your startup as a
+non-technical entrepreneur and in this
+course we're going to break down the
+steps for you so again all the tools and
+the free cores can be found Below in the
+description and if you don't think it's
+possible to generate millions of dollars
+with no code then check out these three
+startups cuz they've done exactly that
+and now my friends it's your turn to
+take action let's go

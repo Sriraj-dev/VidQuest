@@ -1,0 +1,8 @@
+name: pathway_sample_app
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - python-dotenv
