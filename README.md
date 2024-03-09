@@ -20,7 +20,19 @@ VidQuest is a powerful web application designed to decode the secrets hidden wit
     ```
     
 2. **Create a conda environment using environment.yml file:**
-3. **Run the following commands**
+3. **Create a .env file with following content**
+   ```bash
+    HOST = 0.0.0.0
+    PORT = 8080
+    EMBEDDER_LOCATOR=text-embedding-ada-002
+    MODEL_LOCATOR=gpt-3.5-turbo
+    MAX_TOKENS=200
+    TEMPERATURE=0.0
+    LOCAL_FOLDER_PATH= {YOUR_FOLDER_PATH}
+    EMBEDDING_DIMENSION=1536
+    OPENAI_API_TOKEN = {YOUR_API_TOKEN}
+    ```
+4. **Run the following commands**
    ```bash
    pip install llm_app pathway
     ```
